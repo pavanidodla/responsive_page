@@ -18,7 +18,7 @@ Convert an existing desktop-only web page to a responsive, mobile-friendly layou
    Loaded the existing desktop-only page for editing.
 
 2. **Identify fixed-width elements or large images**  
-   Checked for elements with fixed widths or images that don’t scale on smaller screens.
+   Checked for elements with fixed widths or images that don’t scale on smaller screens
 
 3. **Write media queries targeting devices with max-width 768px**  
    Applied CSS media queries to adjust styles for tablets and mobile devices.
@@ -40,7 +40,6 @@ Convert an existing desktop-only web page to a responsive, mobile-friendly layou
    - Ensured no content causes horizontal scrollbars on small screens.  
    - Made images and other elements scale within their containers.
 
-8. **Ensure images are responsive**  
-   - Used CSS properties like `max-width: 100%;` and `height: auto;` for images.
+
 
 
